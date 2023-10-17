@@ -4,7 +4,7 @@
 $host = "localhost";
 $user = "root";
 $password = "";
-$database = "quanlysv";
+$database = "quanlydiem";
 
 // Tạo kết nối đến MySQL
 $conn = new mysqli($host, $user, $password, $database);
